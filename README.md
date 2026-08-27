@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <img src="mtb90d3o-14bz7.gif" alt="ASCII Render Animation" style="max-width: 450px; width: 100%; height: auto;" />
+  <img src="mtb90d3o-14bz7.gif" alt="ASCII Render Animation" width="70%" style="max-width: 100%; height: auto;" />
 </div>
 
 <!-- ABOUT ME SECTION -->
