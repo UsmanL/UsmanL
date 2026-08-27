@@ -69,23 +69,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- GITHUB STATS SECTION -->
+<!-- GITHUB STATS SECTION (RELIABLE BACKUP SERVERS) -->
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="35" align="center"> 
   <b>GitHub Analytics</b>
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsmanL&show_icons=true&locale=en&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UsmanL&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=UsmanL&show_icons=true&locale=en&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=UsmanL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanL&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <!-- CONTRIBUTIONS SECTION -->
