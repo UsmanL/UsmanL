@@ -8,11 +8,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usman+!+%F0%9F%91%8B;Full-Stack+Developer+%7C+IT+Student;Building+Modern+Web+%26+IoT+Projects" alt="Typing SVG" />
 </p>
 
-<!-- TROPHIES & VISITOR COUNT SECTION -->
+<!-- SNAKE CONTRIBUTION ANIMATION & PROFILE VIEWS -->
+<h3 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561b473f-e74e-4780-9c24-2fa307d72978.gif" width="35" align="center">
+  <b>My Contribution Graph</b>
+</h3>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-max.vercel.app/?username=UsmanL&theme=flat&margin-w=5" alt="GitHub Trophies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UsmanL/UsmanL/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UsmanL/UsmanL/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/UsmanL/UsmanL/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
