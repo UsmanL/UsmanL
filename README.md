@@ -13,12 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=UsmanL&label=PROFILE%20VIEWS&color=007ACC&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-
 <div align="center">
-  <img src="https://cdn.asciify.org/files/mtb90d3o-14bz7.gif" alt="ASCII Render Animation" width="70%" />
+  <img src="mtb90d3o-14bz7.gif" alt="ASCII Render Animation" width="70%" />
 </div>
 
 <!-- ABOUT ME SECTION -->
