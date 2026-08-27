@@ -46,15 +46,11 @@
 </h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/usmanlabs" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"></a>&nbsp;&nbsp;
   <a href="https://github.com/UsmanL" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/its.usman.liaqat" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45"></a>&nbsp;&nbsp;
   <a href="mailto:usmanlegend922@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"></a>
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-
 <!-- TECH STACK & TOOLS SECTION -->
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" align="center"> 
