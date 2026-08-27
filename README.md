@@ -13,6 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=UsmanL&label=PROFILE%20VIEWS&color=007ACC&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
 <!-- ABOUT ME SECTION -->
 <h3 align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="35" align="center"> 
@@ -72,6 +76,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanL&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
