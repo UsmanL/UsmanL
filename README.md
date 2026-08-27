@@ -17,6 +17,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
+<div align="center">
+  <img src="https://cdn.asciify.org/files/mtb90d3o-14bz7.gif" alt="ASCII Render Animation" width="70%" />
+</div>
+
 <!-- ABOUT ME SECTION -->
 <h3 align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="35" align="center"> 
