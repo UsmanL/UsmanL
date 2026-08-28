@@ -17,6 +17,11 @@
   <img src="mtb90d3o-14bz7.gif" alt="ASCII Render Animation" width="70%" style="max-width: 100%; height: auto;" />
 </div>
 
+<!-- SHINING LINE DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
 <!-- ABOUT ME SECTION -->
 <h3 align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="35" align="center"> 
@@ -84,7 +89,7 @@
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561b473f-e74e-4780-9c24-2fa307d72978.gif" width="35" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" align="center">
   <b>Contribution Activity</b>
 </h3>
 
@@ -94,6 +99,21 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UsmanL/UsmanL/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/UsmanL/UsmanL/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
+</p>
+
+<!-- SHINING LINE DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
+<!-- ARCADE / CODING ACTIVITY SECTION -->
+<h3 align="left">
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="30" align="center">
+  <b>Arcade / Coding Activity</b>
+</h3>
+
+<p align="center">
+  <img src="space-shooter.gif" alt="GitHub Space Shooter Arcade Animation" width="100%">
 </p>
 
 <!-- FOOTER BANNER -->
