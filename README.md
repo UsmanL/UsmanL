@@ -8,14 +8,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usman+!+%F0%9F%91%8B;Full-Stack+Developer+%7C+IT+Student;Building+Modern+Web+%26+IoT+Projects" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img 
+    src="mtchalkr-y9y0o.gif" 
+    width="180" 
+    alt="Cyberpunk Glitch Portrait" 
+    style="
+      border-radius: 8px; 
+      border: 1px solid #00f0ff; 
+      box-shadow: 0 0 10px #00f0ff;
+    " 
+  />
+</p>
+
 <!-- PROFILE VIEWS BADGE WITH SHINE -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UsmanL&label=PROFILE%20VIEWS&color=007ACC&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
-
-<div align="center">
-  <img src="mtb90d3o-14bz7.gif" alt="ASCII Render Animation" width="70%" style="max-width: 100%; height: auto;" />
-</div>
 
 <!-- SHINING LINE DIVIDER -->
 <p align="center">
