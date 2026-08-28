@@ -116,24 +116,30 @@
   <img src="space-shooter.gif" alt="GitHub Space Shooter Arcade Animation" width="100%">
 </p>
 
-<!-- GITHUB STREAK CARD -->
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flame/Fire.png" width="30" align="center">
-  <b>Coding Activity Streak</b>
-</h3>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanL&theme=cyberpunk&hide_border=true" alt="Usman's GitHub Streak" width="85%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- GITHUB STATS CARD -->
+<!-- OVERALL DEV STATS (METRICS MATRIX) -->
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center">
-  <b>GitHub Dev Stats</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center">
+  <b>Overall Dev Stats Matrix</b>
 </h3>
 
+<pre align="center">
+┌────────────────────────────────────────────────────────────────────────┐
+│  <b>SYSTEM STATUS</b>   : <font color="#00ff66">ONLINE</font>                                              │
+│  <b>PLAYER HANDSHAKE</b>: UsmanL @ GitHub                                     │
+│  <b>ENERGY / STAMINA</b>: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%                             │
+│  <b>ACTIVE QUEST</b>    : Full-Stack Web Dev & Embedded Hardware             │
+└────────────────────────────────────────────────────────────────────────┘
+</pre>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsmanL&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Usman's Stats" width="85%">
+  <img src="https://img.shields.io/badge/Main_Stack-JS_|_React_|_Node-00f0ff?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/System_Security-Active-ff0055?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117" /><br>
+  <img src="https://img.shields.io/badge/Coding_Streak-Active_🔥-00ff66?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Build_Status-Passed_✓-7000ff?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
 </p>
 
 <!-- FOOTER BANNER -->
