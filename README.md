@@ -116,6 +116,26 @@
   <img src="space-shooter.gif" alt="GitHub Space Shooter Arcade Animation" width="100%">
 </p>
 
+<!-- GITHUB STREAK CARD -->
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flame/Fire.png" width="30" align="center">
+  <b>Coding Activity Streak</b>
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanL&theme=cyberpunk&hide_border=true" alt="Usman's GitHub Streak" width="85%">
+</p>
+
+<!-- GITHUB STATS CARD -->
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center">
+  <b>GitHub Dev Stats</b>
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UsmanL&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Usman's Stats" width="85%">
+</p>
+
 <!-- FOOTER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0e75b6,100:FFFFFF&height=120&section=footer" width="100%">
