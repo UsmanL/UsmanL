@@ -63,8 +63,8 @@
   <a href="https://www.linkedin.com/in/usmanlabs" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"></a>&nbsp;&nbsp;
   <a href="https://github.com/Usman-LiaQ" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/its.usman.liaqat" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45"></a>&nbsp;&nbsp;
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=usmanlegend922@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="45">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=usmanlegend922@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45">
 </a>
 
 <p align="center">
